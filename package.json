@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hankevin0618/twohands-app/issues"
   },
-  "homepage": "https://github.com/hankevin0618/twohands-app#readme"
+  "homepage": "https://github.com/hankevin0618/twohands-app#readme",
+  "dependencies": {
+    "graphql": "^16.6.0"
+  }
 }
