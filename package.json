@@ -1,0 +1,19 @@
+{
+  "name": "twohands-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hankevin0618/twohands-app.git"
+  },
+  "author": "Kevin Han",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hankevin0618/twohands-app/issues"
+  },
+  "homepage": "https://github.com/hankevin0618/twohands-app#readme"
+}
